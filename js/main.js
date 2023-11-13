@@ -44,3 +44,31 @@ function changElm() {
     // Змінюємо вміст першого елемента на новий текст
     oneElm.textContent = " hi, im di what you name ";
 }
+
+
+
+
+
+
+// <h1 id="h1">HELLO</h1>
+//     <button id="changeText" >Change this text</button>
+// <!-- 2 -->
+// <h2>interesting</h2>
+// <img id="imgg" src="https://i.pinimg.com/236x/25/90/a1/2590a1a6759841581e6e1ed7fc91376d.jpg" alt="квіти">   
+
+
+// <!-- 3 -->
+// <a id="link1" href="https://e1.pxfuel.com/desktop-wallpaper/582/832/desktop-wallpaper-iphone-pink-sunset-aesthetic-pink.jpg">my foto</a>
+// <!-- <img id="imgs" src="https://klike.net/uploads/posts/2018-12/1544426804_10.jpg" alt="Перше зображення"> -->
+// <button id="change-link-button">Змінити посилання </button>
+// <!-- <a id="link1" href="https://e1.pxfuel.com/desktop-wallpaper/582/832/desktop-wallpaper-iphone-pink-sunset-aesthetic-pink.jpg">Моє посилання</a>
+//     <img id="imgs" src="https://klike.net/uploads/posts/2018-12/1544426804_10.jpg" alt="Моє зображення">
+//     <button id="change-link-button">Змінити посилання </button> -->
+
+// <!-- 4 -->
+// <ul id="list">
+//     <li>HOW ARE YOU</li>
+//     <li>GREAT, WHAT ABOUT YOU</li>
+//     <li>IM FINE THANKS</li>
+//   </ul>
+//   <button onclick="changElm()">Змінити перший елемент</button>
